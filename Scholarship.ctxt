@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Scholarship
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=math\ scien\ english
+comment2.target=int\ calc(int,\ int,\ int)
+comment3.params=total\ fees
+comment3.target=void\ calci1(int,\ int)
+comment4.params=abi
+comment4.target=void\ display(int)
+numComments=5

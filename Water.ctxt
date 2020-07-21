@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Water
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=da1\ da2\ da3
+comment2.target=int\ simba(int,\ int,\ int)
+comment3.params=avi
+comment3.target=void\ display(int)
+numComments=4
